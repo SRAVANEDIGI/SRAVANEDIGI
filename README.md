@@ -8,4 +8,4 @@
 SRAVANEDIGI/SRAVANEDIGI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![WhatsApp Image 2022-11-29 at 1 00 10 PM](https://user-images.githubusercontent.com/119400007/204491814-13ea5ba4-b6ef-4575-9dc3-7939265f57ef.jpeg)
+
